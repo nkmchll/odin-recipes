@@ -1,9 +1,10 @@
 *{
-    background-color:rgb(234, 216, 199)
+    background-color:rgb(234, 216, 200)
 }
 
 h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 15px 10px 4px rgba(96, 102, 113, 0.6);
     text-align: center;
     font-size: 110px;
     padding: 60px;
